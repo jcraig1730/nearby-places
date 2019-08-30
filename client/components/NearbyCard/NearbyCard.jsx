@@ -7,7 +7,7 @@ class NearbyCard extends React.Component {
     super(props);
 
   }
-  // arbitrary change
+  // arbitrary change1
   render() {
     const { placeDetails } = this.props;
     const avgRating = placeDetails.ratings.reduce((review, accum) => accum + review) / placeDetails.ratings.length;
