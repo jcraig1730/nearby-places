@@ -11,7 +11,7 @@
 
 ## Development
 
-### Installing Dependencies
+### Installing Dependencies and Running Module
 
 From within the root directory:
 
