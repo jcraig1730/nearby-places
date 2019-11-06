@@ -1,13 +1,7 @@
-# Project Name
+# Nearby-Places-Module
 
-> Project description
+> A list of properties within the same zip code as the property currently being viewed
 
-## Related Projects
-
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
 
 ## Table of Contents
 
